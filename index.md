@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mbarter2017/Molly-Barter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbarter2017/Molly-Barter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<head>
+<title>Hello, My Name Is Molly And These Are My Pets!</title>
+<style>
+body{
+	background-color: pink;
+	}</style>
+</head>
+<body>
+Molly Barter
+<div>
+<font face="Apple Chancery">
+	<center>
+	<h1 style="border:1px solid Blue;">Remi, Cleo, and John!</h1>
+	</center>
+	
+	<center>
+	<h2>I love my pets!</h2>
+	</center>
+	<center>
+	<img src="remi.cleo.jpg" alt="My Two Dogs" width="460" height="345">
+	</center>
+	<center>
+	<div><I> I have three pets in my house, two dogs and one cat. Their names consists of Remi, Cleo, and John. Remi and Cleo are my dogs and John is my Cat. Inorder to find out about each one individually, please click on the links bellow.</I></div>
+	</center>
+	<p></p>
+	 <ul>
+	 <center>
+		<a href="page2.html">Remi</a>
+	</center>
+	<center>
+		<a href="page3.html">Cleo</a>
+	</center>
+	<center>
+		<a href="page4.html">John</a>
+	</center>
+	
+	</font>
+	</body>
+	</html>
