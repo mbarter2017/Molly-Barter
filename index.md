@@ -14,7 +14,6 @@ Molly Barter
 	<center>
 	<h1 style="border:1px solid Blue;">Remi, Cleo, and John!</h1>
 	</center>
-	
 	<center>
 	<h2>I love my pets!</h2>
 	</center>
@@ -35,7 +34,6 @@ Molly Barter
 	<center>
 		<a href="page4.html">John</a>
 	</center>
-	
 	</font>
 	</body>
 	</html>
